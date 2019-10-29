@@ -1,0 +1,18 @@
+@charset "utf-8";
+.sign {
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.thanks {
+	font-size: 36px;
+	color: #ffc601;
+}
+.tabledata {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.Album {
+	font-size: 11px;
+}
